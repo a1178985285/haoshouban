@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="179" height="179" viewBox="0 0 179 179">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #febd00;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="组_45" data-name="组 45" transform="translate(-286 -448)">
+    <g id="组_44" data-name="组 44">
+      <g id="组_7" data-name="组 7" transform="translate(-210)">
+        <circle id="椭圆_1" data-name="椭圆 1" class="cls-1" cx="89.5" cy="89.5" r="89.5" transform="translate(496 448)"/>
+        <path id="对号_2_" data-name="对号 (2)" class="cls-2" d="M169.013,192.266A252.483,252.483,0,0,0,106.2,234.958L84.384,216.949,73.63,223.74l37.06,39.594c8.072-15.537,32.168-45.34,60.378-65.769l-2.056-5.3Z" transform="translate(463.37 309.734)"/>
+      </g>
+    </g>
+  </g>
+</svg>

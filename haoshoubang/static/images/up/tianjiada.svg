@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="123" height="123" viewBox="0 0 123 123">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #febd00;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="组_41" data-name="组 41" transform="translate(-319 -430)">
+    <g id="组_5" data-name="组 5">
+      <circle id="椭圆_1" data-name="椭圆 1" class="cls-1" cx="61.5" cy="61.5" r="61.5" transform="translate(319 430)"/>
+      <g id="组_4" data-name="组 4" transform="translate(-158.5 -3.5)">
+        <line id="直线_1" data-name="直线 1" class="cls-2" x2="62" transform="translate(508.5 495.5)"/>
+        <line id="直线_2" data-name="直线 2" class="cls-2" x2="62" transform="translate(539.5 464.5) rotate(90)"/>
+      </g>
+    </g>
+  </g>
+</svg>

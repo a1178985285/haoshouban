@@ -1,0 +1,81 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/ChangeThePhone/main",
+    "pages/chooseReg/main",
+    "pages/deposit/main",
+    "pages/FillInTheEmergencyContact/main",
+    "pages/findPassword/main",
+    "pages/HistoricalOrder/main",
+    "pages/hotelDetail/main",
+    "pages/HotelDetails/main",
+    "pages/IncomeDetails/main",
+    "pages/InputVerificationCode/main",
+    "pages/integralDetail/main",
+    "pages/IntegralExchange/main",
+    "pages/interviewDetail/main",
+    "pages/interviewList/main",
+    "pages/IntroductionHomePage/main",
+    "pages/login/main",
+    "pages/MessageCenter/main",
+    "pages/Mine/main",
+    "pages/MyCollection/main",
+    "pages/OrderAudit/main",
+    "pages/OrderNotSignedIn/main",
+    "pages/person/main",
+    "pages/Receipt/main",
+    "pages/register/main",
+    "pages/setPassword/main",
+    "pages/SignIn/main",
+    "pages/Signing/main",
+    "pages/SigningBankCardUpload/main",
+    "pages/SuccessfulContractSubmission/main",
+    "pages/TelephoneExchange/main",
+    "pages/Train/main",
+    "pages/TrainingDetails/main",
+    "pages/UploadIDCardPhoto/main",
+    "pages/UploadStatement/main",
+    "pages/UploadSuccess/main",
+    "pages/writePerson/main",
+    "pages/xchangeRecord/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FEBD00",
+    "navigationBarTitleText": "好手帮",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#999",
+    "backgroundColor": "#fafafa",
+    "selectedColor": "#333",
+    "borderStyle": "white",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/main",
+        "iconPath": "static/tabs/shouye.png",
+        "selectedIconPath": "static/tabs/shouyedianji.png"
+      },
+      {
+        "text": "培训",
+        "pagePath": "pages/Train/main",
+        "iconPath": "static/tabs/peixun.png",
+        "selectedIconPath": "static/tabs/peixundianji.png"
+      },
+      {
+        "text": "订单",
+        "pagePath": "pages/OrderNotSignedIn/main",
+        "iconPath": "static/tabs/dingdan.png",
+        "selectedIconPath": "static/tabs/dingdandianji.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/person/main",
+        "iconPath": "static/tabs/wode.png",
+        "selectedIconPath": "static/tabs/wodedianji.png"
+      }
+    ],
+    "position": "bottom"
+  }
+}
